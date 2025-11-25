@@ -9,25 +9,33 @@ This pack contains two elements:
 <img width="794" height="247" alt="image" src="https://github.com/user-attachments/assets/e1e608b7-776a-42e2-a0d2-a6b5145be70d" />
 <img width="861" height="293" alt="image" src="https://github.com/user-attachments/assets/f6599f90-535f-4001-85f3-07cb0578901c" />
 
+While playing as Ritualist or Scourge, the shards will be centered instead:
+
+<img width="883" height="234" alt="image" src="https://github.com/user-attachments/assets/6abe5eba-ccbb-47b8-89d3-5504ccc28823" />
+
 
 # How to use
-Simply download the zip file to your reffect root folder like so:
-
-<img width="519" height="202" alt="image" src="https://github.com/user-attachments/assets/4b1b1140-bb36-4f02-a132-371d10992dd4" />
+First, download the zip files to your reffect root folder like so:
+<img width="654" height="195" alt="image" src="https://github.com/user-attachments/assets/9dd56d21-f155-4137-89db-b0defd1bf1da" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
 Then, return to reffect ingame and refresh packs.
 
-While playing as Ritualist or Scourge, the shards will be centered instead:
+Finally, enable your interface size of choice:
 
-<img width="883" height="234" alt="image" src="https://github.com/user-attachments/assets/6abe5eba-ccbb-47b8-89d3-5504ccc28823" />
+<img width="237" height="121" alt="image" src="https://github.com/user-attachments/assets/38422ac8-9153-4454-960c-d3ad03f2e55b" />
+<img width="218" height="116" alt="image" src="https://github.com/user-attachments/assets/3a5296d0-c97c-45a9-b6be-e1c4b49fc773" />
 
-You can also use this on Reaper or Harbinger if you'd prefer, by changing the filter to include them and disabling the other Spear UI:
+<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/b8e6cf96-18f7-4a0c-b00e-c8b0c2d9a68d" />
 
-<img width="880" height="521" alt="image" src="https://github.com/user-attachments/assets/1ebb06a9-df68-4a9b-a329-105b6db6fe84" />
 
 
 # Notes
 
-This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+You can also use the centered UI on Reaper or Harbinger if you'd prefer, by changing the filter to include them and disabling the other Spear UI:
+
+<img width="275" height="164" alt="image" src="https://github.com/user-attachments/assets/c950d2ed-b519-41a2-9528-22b2999f5764" />
+
+<img width="484" height="546" alt="image" src="https://github.com/user-attachments/assets/d996a6c0-3f16-4e15-a096-9e8c825fb183" />
+
